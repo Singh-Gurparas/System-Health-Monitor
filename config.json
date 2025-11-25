@@ -1,0 +1,14 @@
+{
+  "email": {
+    "to": "gs06pta@gmail.com",
+    "from": "gps06pta@gmail.com",
+    "use_mailx": true,
+    "cooldown_seconds": 3600
+  },
+  "thresholds": {
+    "cpu_temp_c": 80.0,
+    "memory_percent": 90.0,
+    "disk_percent": 95.0
+  }
+}
+

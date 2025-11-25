@@ -1,0 +1,13 @@
+{
+  "email": {
+    "to": "gps06pta@gmail.com",
+    "from": "SystemMonitor",
+    "use_mailx": true,
+    "cooldown_seconds": 300
+  },
+  "thresholds": {
+    "cpu_temp_c": 1.0,
+    "memory_percent": 1.0
+  }
+}
+
